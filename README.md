@@ -1,5 +1,5 @@
 # gitskills
 
 ## README
-How to add link
-How to add picture
+1. How to add link
+2. How to add picture
